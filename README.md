@@ -4,7 +4,7 @@
 
 The goal of this task is to get a glimpse of your code style and how you think through a relatively simple problem, paying attention to readability, extendability and good design practices. You should expect to spend approximately 2 hours working on this task.
 
-This is a Sinatra application. The barebones of the application has already been set up for you. If you are unfamiliar with Sinatra, you can find further information [here](http://sinatrarb.com/). You can run the application using the provided setup with `rackup -p port_number_goes_here`.
+This is a Sinatra application. The barebones of the application has already been set up for you. If you are unfamiliar with Sinatra, you can find further information [here](http://sinatrarb.com/). You can run the application using the provided setup with `shotgun config.ru`.
 
 ### Instructions:
 Clone this repository and push the results to your own github accout. When you're finished, send us a link to the repo.
