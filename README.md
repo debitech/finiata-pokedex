@@ -23,7 +23,7 @@ When a user visits the index page of this application, use the [pokemon API](htt
 ### Notes: 
 * For data about Pokemon, the source of truth is the Pokemon API. For images, please use what you think is best.
 * Expect low traffic of ~2 requests per second.
-* Users will access the site on modern desktop devices only.
+* Users will access the site on modern devices only, no need to think about legacy browsers.
 * A simple sanity check test exists in spec/app_spec.rb. Please test your code.
 * If you need clarification on any of these points (where you would normally check in with product), please make a decision yourself and note down what the assumption you made was. 
 
